@@ -16,18 +16,18 @@
   <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-<p align="center">
+
+<p align="center" style="margin-top: 10px;">
   <img align="center" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=martinsgabriel1956&count_private=true&theme=dracula&show_icons=true"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula"> 
 </p>
 
 
+## Contato
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-castro-da-silva-martins-239b67181/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/14902401/gabriel-martins">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
   </a>
 </p>
 
