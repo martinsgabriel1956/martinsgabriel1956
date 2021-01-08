@@ -4,14 +4,6 @@
 - Apaixonado por tecnologia 💻📱🖥
 - Entusiasta em música e amante da cultura pop e geek 🖖🎮📺🎸🎤
 
-
-
-<p align="center">
-  <img align="center" style="margin-right: 4px" src="https://github-readme-stats.vercel.app/api?username=martinsgabriel1956&count_private=true&theme=dracula&show_icons=true"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula"> 
-</p>
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-castro-da-silva-martins-239b67181/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -20,6 +12,14 @@
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
+
+
+<p align="center">
+  <img align="center" style="margin-right: 4px" src="https://github-readme-stats.vercel.app/api?username=martinsgabriel1956&count_private=true&theme=dracula&show_icons=true"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula"> 
+</p>
+
+
 
 
 
