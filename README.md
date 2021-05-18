@@ -62,7 +62,7 @@
   <img alt="Figma" src="https://img.shields.io/badge/Figma-2A2D34?style=for-the-badge&logo=figma" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5600CD?style=for-the-badge&logo=insomnia&logoColor=FFF" />
-  <img alt="Beekeeper" src="https://img.shields.io/badge/Beekeeper-FAD83B?style=for-the-badge&logo=beekeeper&logoColor=000" />
+  <img alt="Beekeeper" src="https://img.shields.io/badge/Beekeeper-FAD83B?style=for-the-badge&logo=beekeeper" />
 </p>
 
 <p>
