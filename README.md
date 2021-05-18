@@ -62,13 +62,13 @@
     </a>
   </div>
   <div>
-    <a href="">
+    <a href="https://sass-lang.com/">
       <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF" />
     </a>
-    <a href="">
+    <a href="https://styled-components.com/">
       <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  />
     </a>
-      <a href="">
+      <a href="https://rubyonrails.org/">
       <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
     </a>
   </div>
@@ -115,10 +115,10 @@
 <div>
   <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinsgabriel1956&count_private=true&theme=dracula&show_icons=true"> 
-    <img align="left" style="padding-left: 4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula">  
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula">  
   </div>
   
-  <div align="center" style="margin-top: 4px;">
+  <div align="center">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsgabriel1956&theme=dracula" alt="martinsgabriel1956" />
   </div>   
 </div>
