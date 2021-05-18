@@ -16,7 +16,7 @@
   <a href="https://github.com/martinsgabriel1956">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:martinsgabriel1956@gmail.com>
+  <a href="mailto:martinsgabriel1956@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-cc342d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
