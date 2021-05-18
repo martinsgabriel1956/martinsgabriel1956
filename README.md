@@ -4,7 +4,7 @@
 - Apaixonado por tecnologia 💻📱🖥
 - Entusiasta em música e amante da cultura pop e geek 🖖🎮📺🎸🎤
 
-### :globe_with_meridians: Contato:
+### :globe_with_meridians: Contact:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-castro-da-silva-martins-239b67181/">
