@@ -26,7 +26,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### :gear: Technology and Tools
+### :gear: Technology and Tools:
 
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
