@@ -49,7 +49,7 @@
 
 <p>
   <img alt="sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=FFF" />
-  <img alt="docker" src="https://img.shields.io/badge/Docker-#2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
+  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
   <img alt="sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=FFF" />
 </p>
 
