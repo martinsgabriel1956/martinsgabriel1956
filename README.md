@@ -103,9 +103,6 @@
   <a href="https://insomnia.rest/">
     <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5600CD?style=for-the-badge&logo=insomnia&logoColor=FFF" />
   </a>
-  <a href="https://www.beekeeperstudio.io/">
-    <img alt="Beekeeper" src="https://img.shields.io/badge/Beekeeper-FAD83B?style=for-the-badge&logo=beekeeper&logoColor=000" />
-  </a>
 </p>
 
 <p>
