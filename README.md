@@ -59,6 +59,9 @@
   <a href="https://nextjs.org/">
     <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=next-dot-js&logoColor=FFF" />
   </a>
+  <a href="">
+    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF" />
+  </a>
 </p>
 
 #### Databases:
