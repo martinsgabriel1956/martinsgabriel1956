@@ -41,6 +41,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula"> 
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsgabriel1956&theme=dracula" alt="martinsgabriel1956" />
 </p>
+<p align="center" style="margin-top: 10px;">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula"> 
+</p>
 
 <!--
 **martinsgabriel1956/martinsgabriel1956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
