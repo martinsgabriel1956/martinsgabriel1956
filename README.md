@@ -48,8 +48,8 @@
 #### Databases:
 
 <p>
-  <img alt="Mongo DB" src="https://img.shields.io/badge/Mongo DB-20232A?style=for-the-badge&logo=mongo-db&logoColor=61DAFB" />
-  <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+  <img alt="Sqlite 3" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=61DAFB" />
   <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
