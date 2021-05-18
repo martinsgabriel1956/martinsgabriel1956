@@ -39,16 +39,28 @@
 #### Languages:
 
 <p>
-  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
+  <a href="https://www.typescriptlang.org/">
+    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://www.ruby-lang.org/en/">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
+  </a>
+  
+  
 </p>
 
 #### Frameworks:
 
 <p>
-  <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB" />
-  <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=nextjs&logoColor=FFF" />
+  <a href="https://reactnative.dev/">
+    <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=nextjs&logoColor=FFF" />
+  </a>
 </p>
 
 #### Databases:
