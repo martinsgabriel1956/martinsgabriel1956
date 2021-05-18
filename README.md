@@ -35,7 +35,7 @@
 
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
 </p>
 
 #### Frameworks:
@@ -57,12 +57,12 @@
 #### Tools:
 
 <p>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=FFF" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=FFF" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-2A2D34?style=for-the-badge&logo=figma" />
   <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />
   <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5600CD?style=for-the-badge&logo=insomnia&logoColor=FFF" />
+  <img alt="Beekeeper" src="https://img.shields.io/badge/Beekeeper-FAD83B?style=for-the-badge&logo=beekeeper&logoColor=000" />
 </p>
 
 <p>
