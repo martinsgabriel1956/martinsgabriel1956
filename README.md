@@ -27,7 +27,7 @@
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
-  <img alt="sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=CF649A" />
+  <img alt="sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=FFF" />
 </p>
 
 
