@@ -42,7 +42,7 @@
 
 <p>
   <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB" />
 </p>
 
 #### Tools:
