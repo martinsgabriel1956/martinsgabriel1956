@@ -6,7 +6,7 @@
 
 ### :globe_with_meridians: Contact:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/gabriel-castro-da-silva-martins-239b67181/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
