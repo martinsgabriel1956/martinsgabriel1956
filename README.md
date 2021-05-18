@@ -48,9 +48,9 @@
 #### Tools:
 
 <p>
-  <img alt="sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=FFF" />
-  <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
-  <img alt="sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=FFF" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=FFF" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=FFF" />
 </p>
 
 <p>
