@@ -45,8 +45,6 @@
   <a href="https://www.ruby-lang.org/en/">
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
   </a>
-  
-  
 </p>
 
 #### Frameworks:
@@ -66,20 +64,38 @@
 #### Databases:
 
 <p>
-  <img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-  <img alt="Sqlite 3" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=61DAFB" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=FFF" />
+  <a href="https://www.mongodb.com/">
+    <img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+  </a>
+  <a href="https://sqlite.org/index.html">
+    <img alt="Sqlite 3" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=FFF" />
+  </a>
 </p>
 
 #### Tools:
 
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=FFF" />
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-2A2D34?style=for-the-badge&logo=figma" />
-  <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />
-  <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5600CD?style=for-the-badge&logo=insomnia&logoColor=FFF" />
-  <img alt="Beekeeper" src="https://img.shields.io/badge/Beekeeper-FAD83B?style=for-the-badge&logo=beekeeper&logoColor=000" />
+  <a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=FFF" />
+  </a>
+  <a href="https://www.figma.com/">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-2A2D34?style=for-the-badge&logo=figma" />
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />
+  </a>
+  <a href="https://insomnia.rest/">
+    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5600CD?style=for-the-badge&logo=insomnia&logoColor=FFF" />
+  </a>
+  <a href="https://www.beekeeperstudio.io/">
+    <img alt="Beekeeper" src="https://img.shields.io/badge/Beekeeper-FAD83B?style=for-the-badge&logo=beekeeper&logoColor=000" />
+  </a>
 </p>
 
 <p>
