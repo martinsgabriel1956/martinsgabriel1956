@@ -6,7 +6,7 @@
 
 ### :globe_with_meridians: Contact:
 
-<p>
+<div>
   <a href="https://www.linkedin.com/in/gabriel-castro-da-silva-martins-239b67181/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -16,11 +16,11 @@
   <a href="mailto:martinsgabriel1956@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-cc342d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
 
 ### :gear: Main Stack:
 
-<p>
+<div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
@@ -32,25 +32,25 @@
   <a href="https://reactjs.org/">
      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   </a>
-</p>
+</div>
 
 ### :gear: Technology and Tools:
 
 #### Languages:
 
-<p>
+<div>
   <a href="https://www.typescriptlang.org/">
     <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://www.ruby-lang.org/en/">
     <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
   </a>
-</p>
+</div>
 
 #### Frameworks:
 
 <div>
-  <p>
+  <div>
     <a href="https://reactnative.dev/">
       <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     </a>
@@ -60,8 +60,8 @@
     <a href="https://nextjs.org/">
       <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=next-dot-js&logoColor=FFF" />
     </a>
-  </p>
-  <p>
+  </div>
+  <div>
     <a href="">
       <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF" />
     </a>
@@ -71,12 +71,12 @@
       <a href="">
       <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
     </a>
-  </p>
+  </div>
 </div>
 
 #### Databases:
 
-<p>
+<div>
   <a href="https://www.mongodb.com/">
     <img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
   </a>
@@ -86,38 +86,42 @@
   <a href="https://www.postgresql.org/">
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=FFF" />
   </a>
-</p>
+</div>
 
 #### Tools:
 
-<p>
-  <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
-  </a>
-  <a href="https://git-scm.com/">
-    <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=FFF" />
-  </a>
-  <a href="https://www.figma.com/">
-    <img alt="Figma" src="https://img.shields.io/badge/Figma-2A2D34?style=for-the-badge&logo=figma" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />
-  </a>
-  <a href="https://insomnia.rest/">
-    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5600CD?style=for-the-badge&logo=insomnia&logoColor=FFF" />
-  </a>
-</p>
+<div>
+  <div>
+    <a href="https://www.docker.com/">
+      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
+    </a>
+    <a href="https://git-scm.com/">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=FFF" />
+    </a>
+    <a href="https://www.figma.com/">
+      <img alt="Figma" src="https://img.shields.io/badge/Figma-2A2D34?style=for-the-badge&logo=figma" />
+    </a>
+  </div>
+  <div>
+    <a href="https://code.visualstudio.com/">
+      <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />
+    </a>
+    <a href="https://insomnia.rest/">
+      <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5600CD?style=for-the-badge&logo=insomnia&logoColor=FFF" />
+    </a>
+  </div>
+</div>
 
-<p>
-  <p align="center">
+<div>
+  <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinsgabriel1956&count_private=true&theme=dracula&show_icons=true"> 
     <img align="left" style="padding-left: 4px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula">  
-  </p>
+  </div>
   
-  <p align="center" style="margin-top: 4px;">
+  <div align="center" style="margin-top: 4px;">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsgabriel1956&theme=dracula" alt="martinsgabriel1956" />
-  </p>   
-</p>
+  </div>   
+</div>
 
 
 
