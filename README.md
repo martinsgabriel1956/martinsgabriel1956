@@ -49,27 +49,30 @@
 
 #### Frameworks:
 
-<p>
-  <a href="https://reactnative.dev/">
-    <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFF" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=next-dot-js&logoColor=FFF" />
-  </a>
-  <a href="">
-    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF" />
-  </a>
-  <a href="">
-    <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  />
-  </a>
-  
-  <a href="">
-    <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  </a>
-</p>
+<div>
+  <p>
+    <a href="https://reactnative.dev/">
+      <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    </a>
+    <a href="https://tailwindcss.com/">
+      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFF" />
+    </a>
+    <a href="https://nextjs.org/">
+      <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=next-dot-js&logoColor=FFF" />
+    </a>
+  </p>
+  <p>
+    <a href="">
+      <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF" />
+    </a>
+    <a href="">
+      <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  />
+    </a>
+      <a href="">
+      <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 #### Databases:
 
