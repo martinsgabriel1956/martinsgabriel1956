@@ -26,7 +26,7 @@
   </a>
   
   <a href="https://nodejs.org/en/">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=Node&logoColor=FFF" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=FFF" />
   </a>
   
   <a href="https://reactjs.org/">
@@ -57,7 +57,7 @@
     <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=61DAFB" />
   </a>
   <a href="https://nextjs.org/">
-    <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=nextjs&logoColor=FFF" />
+    <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=next-dot-js&logoColor=FFF" />
   </a>
 </p>
 
