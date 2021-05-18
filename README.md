@@ -65,6 +65,10 @@
   <a href="">
     <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  />
   </a>
+  
+  <a href="">
+    <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+  </a>
 </p>
 
 #### Databases:
