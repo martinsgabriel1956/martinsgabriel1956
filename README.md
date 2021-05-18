@@ -51,7 +51,7 @@
 <p>
   <img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
   <img alt="Sqlite 3" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=61DAFB" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-#336790?style=for-the-badge&logo=react&logoColor=FFF" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-#336790?style=for-the-badge&logo=postgres&logoColor=FFF" />
 </p>
 
 #### Tools:
