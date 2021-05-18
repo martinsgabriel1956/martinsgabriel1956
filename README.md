@@ -17,7 +17,7 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/martinsgabriel1956">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-CC4A3C?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-a83f35?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
