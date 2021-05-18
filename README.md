@@ -37,7 +37,7 @@
 
 
 <p align="center" style="margin-left: 10px;">
-  <p align="center" style="display: flex; align-items: center; justify-content: space-between;">
+  <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=martinsgabriel1956&count_private=true&theme=dracula&show_icons=true"> 
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula">  
   </p>
