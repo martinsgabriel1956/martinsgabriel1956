@@ -62,6 +62,9 @@
   <a href="">
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF" />
   </a>
+  <a href="">
+    <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  />
+  </a>
 </p>
 
 #### Databases:
