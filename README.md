@@ -43,7 +43,7 @@
   </p>
 
   <p align="center" style="margin-top: 10px;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsgabriel1956&theme=dracula" alt="martinsgabriel1956" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsgabriel1956&theme=dracula" alt="martinsgabriel1956" />
   </p>   
 </p>
 
