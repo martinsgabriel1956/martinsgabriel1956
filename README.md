@@ -31,11 +31,18 @@
 
 ### :gear: Technology and Tools:
 
+#### Languages:
+
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ 
   <img alt="ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
+  
+</p>
+
+<p>
   <img alt="sass" src="https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=FFF" />
+  <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 
