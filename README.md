@@ -8,44 +8,44 @@
 
 <div>
   <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-     <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
   </a>
   <a href="https://reactnative.dev/">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   </a>
   <a href="https://nextjs.org/">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
   </a>
   <a href="https://nodejs.org/en/">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
   </a>
   <a href="https://reactjs.org/">
-     <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   </a>
   <a href="https://redux.js.org/">
-     <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
+     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
   </a>
   <a href="https://git-scm.com/">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
   </a>
   <a href="https://www.figma.com/">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </a>
   <a href="https://code.visualstudio.com/">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
   </a>
   <a href="https://www.docker.com/">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
   </a>
   <a href="#">
-    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
   </a>
 </div>
 
-#
+##
 
 ### :globe_with_meridians: Social:
 
