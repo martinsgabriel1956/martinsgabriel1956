@@ -1,10 +1,8 @@
-### Olá, eu sou Gabriel! 🤘
+### Hi, I'm Gabriel! 🤘
 
-- Estudando desenvolvimento web, a mais de um ano.
-- Apaixonado por tecnologia 💻📱🖥
-- Entusiasta em música e amante da cultura pop e geek 🖖🎮📺🎸🎤
-
-
+- Studying web development, over a year.
+- Passion for technology 💻📱🖥
+- Enthusiastic for music and pop culture 🖖🎮📺🎸🎤
 
 ### :gear: Languages, Frameworks, Technologies and Tools:
 
@@ -75,9 +73,5 @@
   <div align="center">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=martinsgabriel1956&count_private=true&theme=dracula&show_icons=true"> 
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinsgabriel1956&theme=dracula">  
-  </div>
-  
-  <div align="center">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsgabriel1956&theme=dracula" alt="martinsgabriel1956" />
-  </div>   
+  </div> 
 </div>
