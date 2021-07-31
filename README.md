@@ -4,7 +4,52 @@
 - Apaixonado por tecnologia 💻📱🖥
 - Entusiasta em música e amante da cultura pop e geek 🖖🎮📺🎸🎤
 
-### :globe_with_meridians: Contact:
+
+
+### :gear: Languages, Frameworks, Technologies and Tools:
+
+<div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+     <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">  
+  </a>
+  <a href="https://reactnative.dev/">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  </a>
+  <a href="https://nextjs.org/">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
+  </a>
+  <a href="https://nodejs.org/en/">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
+  </a>
+  <a href="https://reactjs.org/">
+     <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+  </a>
+  <a href="https://redux.js.org/">
+     <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
+  </a>
+  <a href="https://git-scm.com/">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
+  </a>
+  <a href="https://www.figma.com/">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> 
+  </a>
+  <a href="https://www.docker.com/">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
+  </a>
+  <a href="#">
+    <img align="center" width="50" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> 
+  </a>
+</div>
+
+#
+
+### :globe_with_meridians: Social:
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-castro-da-silva-martins-239b67181/" target="_blank">
@@ -16,101 +61,15 @@
   <a href="mailto:martinsgabriel1956@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-cc342d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-### :gear: Main Stack:
-
-<div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <a href="https://www.instagram.com/martinsgabriel99/">
+    <img alt="Gmail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
-  <a href="https://nodejs.org/en/">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=FFF" />
-  </a>
-  
-  <a href="https://reactjs.org/">
-     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <a href="https://www.instagram.com/martinsgabriel99/">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
-### :gear: Technology and Tools:
-
-#### Languages:
-
-<div>
-  <a href="https://www.typescriptlang.org/">
-    <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  </a>
-  <a href="https://www.ruby-lang.org/en/">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=FFF" />
-  </a>
-</div>
-
-#### Frameworks:
-
-<div>
-  <div>
-    <a href="https://reactnative.dev/">
-      <img alt="react Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    </a>
-    <a href="https://tailwindcss.com/">
-      <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=FFF" />
-    </a>
-    <a href="https://nextjs.org/">
-      <img alt="Next JS" src="https://img.shields.io/badge/Next JS-20232A?style=for-the-badge&logo=next-dot-js&logoColor=FFF" />
-    </a>
-  </div>
-  <div>
-    <a href="https://sass-lang.com/">
-      <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFF" />
-    </a>
-    <a href="https://styled-components.com/">
-      <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  />
-    </a>
-      <a href="https://rubyonrails.org/">
-      <img alt="Ruby On Rails" src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-    </a>
-  </div>
-</div>
-
-#### Databases:
-
-<div>
-  <a href="https://www.mongodb.com/">
-    <img alt="Mongo Db" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> 
-  </a>
-  <a href="https://sqlite.org/index.html">
-    <img alt="Sqlite 3" src="https://img.shields.io/badge/SQLite-20232A?style=for-the-badge&logo=sqlite&logoColor=61DAFB" />
-  </a>
-  <a href="https://www.postgresql.org/">
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336790?style=for-the-badge&logo=postgresql&logoColor=FFF" />
-  </a>
-</div>
-
-#### Tools:
-
-<div>
-  <div>
-    <a href="https://www.docker.com/">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFF" />
-    </a>
-    <a href="https://git-scm.com/">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F54D27?style=for-the-badge&logo=git&logoColor=FFF" />
-    </a>
-    <a href="https://www.figma.com/">
-      <img alt="Figma" src="https://img.shields.io/badge/Figma-2A2D34?style=for-the-badge&logo=figma" />
-    </a>
-  </div>
-  <div>
-    <a href="https://code.visualstudio.com/">
-      <img alt="VS Code" src="https://img.shields.io/badge/Visual Studio Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=FFF" />
-    </a>
-    <a href="https://insomnia.rest/">
-      <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5600CD?style=for-the-badge&logo=insomnia&logoColor=FFF" />
-    </a>
-  </div>
-</div>
+##
 
 <div>
   <div align="center">
@@ -122,22 +81,3 @@
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=martinsgabriel1956&theme=dracula" alt="martinsgabriel1956" />
   </div>   
 </div>
-
-
-
-
-
-<!--
-**martinsgabriel1956/martinsgabriel1956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
