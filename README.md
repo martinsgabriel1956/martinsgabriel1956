@@ -23,10 +23,6 @@
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> 
   </a>
   &nbsp;
-  <a href="https://redux.js.org/">
-     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> 
-  </a>
-  &nbsp;
    <a href="https://reactnative.dev/">
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   </a>
@@ -39,15 +35,10 @@
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
   </a>
   &nbsp;
-  <a href="https://expressjs.com/">
-    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> 
-  </a>
-  &nbsp;
   <a href="hhttps://adonisjs.com/">
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg"> 
   </a>
   &nbsp;
-  
   <a href="https://www.figma.com/">
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   </a>
