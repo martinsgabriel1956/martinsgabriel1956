@@ -1,7 +1,7 @@
 ### Hi, I'm Gabriel! 🤘
 
 - Studying web development, over a year.
-- Passion for technology 💻📱🖥
+- Passionate for technology 💻📱🖥
 - Enthusiastic for music and pop culture 🖖🎮📺🎸🎤
 
 ### :gear: Languages, Frameworks, Technologies and Tools:
