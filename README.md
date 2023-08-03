@@ -2,7 +2,7 @@
 
 - Software Developer 🧑🏻‍💻
 - Passionate for learning new technologies 💻📱🖥
-- Addicted to coffee ☕
+- Coffeeholic ☕
 - Enthusiastic for music and pop culture 🖖🎮📺🎸🎤
 
 ### :gear: Languages, Frameworks, Technologies and Tools:
