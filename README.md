@@ -1,7 +1,8 @@
 ### Hi, I'm Gabriel! 🤘
 
-- Studying web development, over a year.
-- Passionate for technology 💻📱🖥
+- Software Developer 🧑🏻‍💻
+- Passionate for learning new technologies 💻📱🖥
+- Addicted to coffee ☕
 - Enthusiastic for music and pop culture 🖖🎮📺🎸🎤
 
 ### :gear: Languages, Frameworks, Technologies and Tools:
@@ -31,20 +32,7 @@
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
   </a>
   &nbsp;
-   <a href="https://www.docker.com/">
-    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> 
-  </a>
-  &nbsp;
-  <a href="hhttps://adonisjs.com/">
-    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg"> 
-  </a>
-  &nbsp;
-  <a href="https://www.figma.com/">
-    <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  </a>
 </div>
-
-##
 
 ### :globe_with_meridians: Social:
 
@@ -61,12 +49,7 @@
   <a href="https://www.instagram.com/martinsgabriel99/">
     <img alt="Gmail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/martinsgabriel99/">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
 </div>
-
-##
 
 <div>
   <div align="center">
