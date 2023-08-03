@@ -4,6 +4,7 @@
 - Passionate for learning new technologies 💻📱🖥
 - Coffeeholic ☕
 - Enthusiastic for music and pop culture 🖖🎮📺🎸🎤
+&nbsp;
 
 ### :gear: Languages, Frameworks, Technologies and Tools:
 
@@ -34,6 +35,8 @@
   &nbsp;
 </div>
 
+&nbsp;
+
 ### :globe_with_meridians: Social:
 
 <div>
@@ -50,6 +53,8 @@
     <img alt="Gmail" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
+&nbsp;
 
 <div>
   <div align="center">
