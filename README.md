@@ -33,7 +33,7 @@
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg"> 
   </a>
   &nbsp;
-  <a href="https://nodejs.org/en/">
+  <a href="https://www.figma.com/">
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> 
   </a>
   &nbsp;
