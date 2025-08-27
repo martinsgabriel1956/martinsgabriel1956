@@ -47,7 +47,7 @@
   <a href="https://www.linkedin.com/in/gabriel-castro-da-silva-martins-239b67181/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:martinsgabriel1956@gmail.com" target="_blank">
+  <a href="mailto:martinsgabrieldev@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-cc342d?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/martinsgabriel99/">
